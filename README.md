@@ -1,2 +1,2 @@
 # COMP1210
-Repo for my Java 1 homework files at AU
+Homework files for COMP 1210 (Fundamentals of Compouting I) at AU
